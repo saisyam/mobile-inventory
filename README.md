@@ -1,2 +1,3 @@
-# mobile-inventory
-Web application to manage mobile inventory and sales
+# Mobile Inventory
+Web application to manage inventory, sales and purchase
+
